@@ -6,8 +6,10 @@ If you are planning to do the assignments yourself then I strongly advice you to
 To run this project you should have JRE 6 installed and run each class seperately as a java application with JRE 6. You also need to set the compiler compliance level in Eclipse to 1.6 to run in JRE 6.
 
 Install JRE 6 (in Eclipse):
-Download and install from the oracle archives.
-Add the folder at: Window -> Preferences -> Java -> Installed JRE's
+ - Download and install from the oracle archives.
+ - Add the folder at: Window -> Preferences -> Java -> Installed JRE's
+
 
 Set compiler compliance level (in Eclipse)
-Windows -> Preferences -> Java -> Compiler
+
+ - Windows -> Preferences -> Java -> Compiler
